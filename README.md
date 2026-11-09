@@ -14,10 +14,10 @@ This website provides access to the team's Assessment 1 deliverables, supporting
 ### 2. Architecture
 - [Architecture Report — Arch1.pdf](documents/Arch1.pdf)
 
-#### Architecture Development Evidence
-- [Initial Architecture](architecture/architecture-v1.pdf)
-- [Revised Architecture](architecture/architecture-v2.pdf)
-- [CRC Cards / Design Evidence](architecture/crc-cards.pdf)
+#### CRC Cards
+- [Entities](architecture/CRC-Entities.jpg)
+- [Game Managers](architecture/CRC-GM.jpg)
+- [Screens](architecture/CRC-Screens.jpg)
 
 ### 3. Method Selection and Planning
 - [Method Selection and Planning Report — Plan1.pdf](documents/Plan1.pdf)
